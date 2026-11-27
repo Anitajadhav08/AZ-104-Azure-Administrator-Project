@@ -107,7 +107,7 @@ Effective access was verified using **Access Control (IAM) → Check access**.
 
 The architecture diagram represents the Azure resources and their configuration across Central India and East US.
 
-![Azure Architecture Diagram](Architecture%20Diagram.png)
+![Azure Architecture Diagram](Project%20Architecture%20Diagram.png)
 
 ## 7. Project Screenshots
 
