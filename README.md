@@ -111,7 +111,7 @@ The architecture diagram represents the Azure resources and their configuration 
 
 ## 7. Project Screenshots
 
-Screenshots documenting the practical Azure configurations are available in the `Screenshots` folder.
+Screenshots documenting the practical Azure configurations are available in the repository root directory.
 
 1. Resource Group showing all 7 resources
 2. Virtual Machine Overview
