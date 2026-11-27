@@ -45,7 +45,7 @@ The project uses the following 7 Azure resources inside the Resource Group `rg-a
 - Priority: 100
 - Protocol: TCP
 - Port: 3389
-- Source: 103.174.141.51/32
+- Source: My public IP/32
 - Action: Allow
 
 The Network Security Group is associated with the Virtual Machine's Network Interface.
